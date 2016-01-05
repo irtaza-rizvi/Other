@@ -36,7 +36,7 @@ public class HashTable {
 		a1 = twoSum(a1, 10);
 		int[] a2 = { 3, 7, 11, 15 };
 		a2 = twoSum2(a2, 10);
-		System.out.println("a1: (" + a1[0] + ", " + a1[1] + ")");
-		System.out.println("a2: (" + a2[0] + ", " + a2[1] + ")");
+		System.out.println("a1= (" + a1[0] + ", " + a1[1] + ")");
+		System.out.println("a2= (" + a2[0] + ", " + a2[1] + ")");
 	}
 }
